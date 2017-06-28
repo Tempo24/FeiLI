@@ -1,0 +1,24 @@
+
+//
+//  FeiLi.pch
+//  FeiLi
+//
+//  Created by lx on 16/4/9.
+//  Copyright (c) 2016年 lx. All rights reserved.
+//
+
+#ifndef FeiLi_FeiLi_pch
+#define FeiLi_FeiLi_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "UIImageView+WebCache.h"
+#import "LXNetWorkManager.h"
+
+#define KscreenWidth [UIScreen mainScreen].bounds.size.width
+#define KscreenHeight [UIScreen mainScreen].bounds.size.height
+
+#define kcellHeight 100
+#define KuserName @"feili"
+#define KpassWord @"9909"
+#endif
